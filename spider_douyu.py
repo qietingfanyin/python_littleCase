@@ -18,3 +18,4 @@ for pic in pic_url:
          print("正在保存图片")
          pic_num += 1
 print(pic_num)
+a=10
