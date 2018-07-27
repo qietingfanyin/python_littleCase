@@ -18,4 +18,5 @@ for pic in pic_url:
          print("正在保存图片")
          pic_num += 1
 print(pic_num)
+print("文件名需要改")
 
